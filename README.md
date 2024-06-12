@@ -1,9 +1,9 @@
-# Hi! 👋
-
 ![Frame 1](https://github.com/maugalcst/maugalcst/assets/129212900/1a04297d-d69a-43d4-8f40-41192da7bd10)
-![Perfil](https://img.shields.io/badge/GitHub-maugalcst-blue?style=flat&logo=github) ![LinkedIn](https://img.shields.io/badge/LinkedIn-Mauricio-blue?style=flat&logo=linkedin)
 
+# Hi! 👋
 I'm a Software Engineering student, passionate about creating things, sports, and video games. My goal is to keep learning and exploring new areas in programming while contributing to interesting projects.
+
+![Perfil](https://img.shields.io/badge/GitHub-maugalcst-blue?style=flat&logo=github) ![LinkedIn](https://img.shields.io/badge/LinkedIn-Mauricio-blue?style=flat&logo=linkedin)
 
 ## About Me
 
