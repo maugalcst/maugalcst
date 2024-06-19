@@ -34,12 +34,6 @@ I'm a Software Engineering student, passionate about creating things, sports, an
 ![English](https://img.shields.io/badge/English-Fluent-1E90FF?style=flat&logo=google-translate&logoColor=white)
 ![German](https://img.shields.io/badge/German-Basic-FFD700?style=flat&logo=google-translate&logoColor=black)
 
-## Personal Interests
-
-- 🎾 **Sports**: Passionate about tennis and martial arts, activities I frequently engage in.
-- 🎮 **Video Games**: Enjoy both playing and creating small projects related to video games.
-- 🎼 **Music**: Play various musical instruments and enjoy exploring new genres and techniques.
-
 ## Contact
 
 - [Email](mailto:maugal,cst@gmail.com)
