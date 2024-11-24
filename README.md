@@ -7,8 +7,8 @@ I'm a Software Engineering student, passionate about creating things, sports, an
 ## About Me
 
 - 🎓 Studying Software Engineering.
-- 💼 Currently working at [Banorte](https://www.banorte.com/).
-- 🌱 Learning Kotlin and exploring new areas of programming.
+- 💼 Working at [Banorte](https://www.banorte.com/).
+- 🌱 Currently learning AWS and exploring new areas of programming.
 - 🎮 I love creating things, from software to personal projects.
 - 🎾 Enthusiast of sports like tennis and martial arts.
 - 🎼 Enjoy playing musical instruments in my spare time.
@@ -21,6 +21,8 @@ I'm a Software Engineering student, passionate about creating things, sports, an
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
 ### Computer Languages
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
