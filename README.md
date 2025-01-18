@@ -10,7 +10,7 @@ I'm a Software Engineering student, passionate about creating things, sports, an
 
 - 🎓 Studying Software Engineering.
 - 💼 Working at [Banorte](https://www.banorte.com/).
-- 🌱 Currently learning AWS and exploring new areas of programming.
+- 🌱 Currently learning Java Spring Boot and exploring new areas of programming.
 - 🎮 I love creating things, from software to personal projects.
 - 🎾 Enthusiast of sports like tennis and martial arts.
 - 🎼 Enjoy playing musical instruments in my spare time.
