@@ -1,3 +1,4 @@
+![Frame 1](https://github.com/maugalcst/maugalcst/assets/129212900/1a04297d-d69a-43d4-8f40-41192da7bd10)
 Hola mundo! 👋
 
 Soy Mauricio, un entusiasta estudiante de Ingeniería de Software con una pasión por crear cosas que cobren vida, ya sea a través del código o en proyectos personales. Fuera de la pantalla, me encontrarás practicando deportes, sumergido en videojuegos o explorando nuevos horizontes musicales. Mi objetivo es simple pero ambicioso: aprender constantemente y contribuir a proyectos que realmente marquen la diferencia.
