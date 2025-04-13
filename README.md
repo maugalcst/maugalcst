@@ -9,13 +9,13 @@ Soy Mauricio, un entusiasta estudiante de Ingeniería de Software con una pasió
 
 ## Un Poco Sobre Mí 🤓
 
-- 🎓 Estudiante de Ingeniería de Software. ¡Siempre aprendiendo algo nuevo!
-- 💼 Trabajando en [Banorte](https://www.banorte.com/). Aplicando mis habilidades en el mundo real.
-- 🌱 Actualmente profundizando en Java Spring Boot y React. ¡El futuro es ahora!
+- 🎓 Estudiante de Ingeniería de Software.
+- 💼 Trabajando en [Banorte](https://www.banorte.com/).
+- 🌱 Actualmente profundizando en Java Spring Boot y React.
 - 🛠️ Me encanta crear cosas, desde software hasta proyectos personales que me desafíen.
-- 🎾 Apasionado por los deportes como el tenis y las artes marciales. ¡Mente sana en cuerpo sano!
-- 🎼 Disfruto tocar instrumentos musicales en mi tiempo libre. La música es mi escape.
-- 💬 Domina español e inglés, y me defiendo en alemán. ¡Un ciudadano del mundo!
+- 🎾 Apasionado por los deportes como el tenis y las artes marciales.
+- 🎼 Disfruto tocar instrumentos musicales en mi tiempo libre.
+- 💬 Domina español e inglés, y me defiendo un poco en alemán.
 
 ## Mis Superpoderes Técnicos 💻
 
