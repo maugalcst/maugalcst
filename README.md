@@ -10,8 +10,8 @@ Soy **Mauricio**, estudiante de Ingeniería de Software y entusiasta de la tecno
 
 ### 📝 Sobre mí
 
-- 🎓 Ingeniería de Software en la Universidad X.
-- 💼 Intern en Banorte (Full Stack & AppSec).
+- 🎓 Ingeniería de Software en la Universidad Autónoma de Nuevo León.
+- 💼 Buscando pasantías.
 - 🌱 Profundizando en **Java Spring Boot**, **React** y **TypeScript**.
 - ⚙️ Apasionado por crear soluciones eficientes y escalables.
 - 🎾 Fanático del tenis y las artes marciales.
@@ -45,7 +45,7 @@ Soy **Mauricio**, estudiante de Ingeniería de Software y entusiasta de la tecno
 [![GitHub](https://img.shields.io/badge/GitHub-maugalcst-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maugalcst)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mauricio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauricio-gallegos-castillo-4b9503288/)
 
-📧 maugal.cst@gmail.com
+📧 mauricio.gallegoscast@gmail.com
 ```
 
 
