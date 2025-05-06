@@ -47,9 +47,3 @@ Soy **Mauricio**, estudiante de Ingeniería de Software y entusiasta de la tecno
 
 📧 mauricio.gallegoscast@gmail.com
 ```
-
-
-<!---
-maugalcst/maugalcst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
