@@ -2,11 +2,11 @@
 ## ¡Hola! 👋
 
 Soy **Mauricio**, estudiante de Ingeniería de Software y entusiasta de la tecnología & deportes. Actualmente colaboro en **Banorte**.
-🔗 [Mi Portafolio](https://im-maugallegos.netlify.app/)
+
+[Mi Portafolio](https://im-maugallegos.netlify.app/)
 
 <!-- Widgets -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maugalcst&theme=dark&hide_border=true)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=maugalcst.maugalcst)
 
 ### 📝 Sobre mí
 
