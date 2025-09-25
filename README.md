@@ -12,7 +12,7 @@ Soy **Mauricio**, estudiante de Ingeniería de Software y entusiasta de la tecno
 
 - 🎓 Ingeniería de Software en la Universidad Autónoma de Nuevo León.
 - 💼 Trabajando como QA Developer intern en Epicor.
-- 🌱 Profundizando en **Java Spring Boot**, **React** y **TypeScript**.
+- 🌱 Profundizando en **Java Spring Boot**, **Angular** y **TypeScript**.
 - ⚙️ Apasionado por crear soluciones eficientes y escalables.
 - 🎾 Fanático del tenis y las artes marciales.
 - 🎮 Gamer ocasional y melómano.
