@@ -42,4 +42,3 @@ Soy **Mauricio**, estudiante de Ingeniería de Software y entusiasta de la tecno
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mauricio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauricio-gallegos-castillo-4b9503288/)
 
 📧 mauricio.gallegoscast@gmail.com
-```
