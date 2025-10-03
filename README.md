@@ -3,19 +3,15 @@
 
 Soy **Mauricio**, estudiante de Ingeniería de Software y entusiasta de la tecnología & deportes. Actualmente colaboro en **Banorte**.
 
-[Mi Portafolio](https://im-maugallegos.netlify.app/) (Work in progress...)
-
-<!-- Widgets -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maugalcst&theme=dark&hide_border=true)
+[Mi Portafolio](https://maugallegoscst-portfolio.netlify.app/)
 
 ### 📝 Sobre mí
 
 - 🎓 Ingeniería de Software en la Universidad Autónoma de Nuevo León.
-- 💼 Trabajando como QA Developer intern en Epicor.
+- 💼 Trabajando como QA Developer intern en [Epicor](https://www.epicor.com/).
 - 🌱 Profundizando en **Java Spring Boot**, **Angular** y **TypeScript**.
 - ⚙️ Apasionado por crear soluciones eficientes y escalables.
-- 🎾 Fanático del tenis y las artes marciales.
-- 🎮 Gamer ocasional y melómano.
+- 🎾 Fanático del tenis.
 
 ### 🚀 Tecnologías
 
