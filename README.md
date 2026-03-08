@@ -1,7 +1,7 @@
 ![Frame 1](https://github.com/maugalcst/maugalcst/assets/129212900/1a04297d-d69a-43d4-8f40-41192da7bd10)
 ## ¡Hola! 👋
 
-Soy **Mauricio**, estudiante de Ingeniería de Software y entusiasta de la tecnología & deportes. Actualmente colaboro en **Banorte**.
+Soy **Mauricio**, estudiante de Ingeniería de Software y entusiasta de la tecnología & deportes. Actualmente trabajo en **Epicor Software**.
 
 [Mi Portafolio](https://maugallegoscst-portfolio.netlify.app/)
 
@@ -9,7 +9,7 @@ Soy **Mauricio**, estudiante de Ingeniería de Software y entusiasta de la tecno
 
 - 🎓 Ingeniería de Software en la Universidad Autónoma de Nuevo León.
 - 💼 Trabajando como QA Developer intern en [Epicor](https://www.epicor.com/).
-- 🌱 Profundizando en **Java Spring Boot**, **Angular** y **TypeScript**.
+- 🌱 Profundizando en **C#**, **React** y **TypeScript**.
 - ⚙️ Apasionado por crear soluciones eficientes y escalables.
 - 🎾 Fanático del tenis.
 
